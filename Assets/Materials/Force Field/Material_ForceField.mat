@@ -94,7 +94,7 @@ Material:
     - _TimeScale: 0.1
     - _UVSec: 0
     - _ZWrite: 1
-    - __dirty: 1
+    - __dirty: 0
     - _hitSize: 1
     - _opacity1: 1
     m_Colors:
