@@ -1637,7 +1637,7 @@ GameObject:
   - component: {fileID: 1781927470}
   - component: {fileID: 1781927469}
   m_Layer: 0
-  m_Name: Teleport_Cube
+  m_Name: Melt_Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
