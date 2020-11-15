@@ -4,5 +4,35 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene_MainMenu.unity
+    guid: 682e459a5d92baf4b9e0343bc1461508
+  - enabled: 1
+    path: Assets/Scenes/MixedEffectScene_Fountain.unity
+    guid: d906ba3f1160dc942b24c77226d3f554
+  - enabled: 1
+    path: Assets/Scenes/ParticleScene_Aura.unity
+    guid: 856224fec85c7bc4ab42ba6bc1059b87
+  - enabled: 1
+    path: Assets/Scenes/ParticleScene_HaloPulseEffect.unity
+    guid: 54a81c338822a1d4d92eba166c55c035
+  - enabled: 1
+    path: Assets/Scenes/ParticleScene_Blood.unity
+    guid: c16d594761376ec489c8b64dd05893a9
+  - enabled: 1
+    path: Assets/Scenes/ParticleScene_Sparks.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ShaderScene_ForceField.unity
+    guid: 08a50e56d81a36d4fb586bed72b5b898
+  - enabled: 1
+    path: Assets/Scenes/ShaderScene_Melt.unity
+    guid: d0c3eef14ad911743afdcfc841d636f7
+  - enabled: 1
+    path: Assets/Scenes/ShaderScene_Teleportation.unity
+    guid: 2f5a2444bf5a55b4a8d87ae04b1fd928
+  - enabled: 1
+    path: Assets/Scenes/ShaderScene_Toon.unity
+    guid: 4a5bdd5fc1ea6eb4a88c244179a0e072
   m_configObjects: {}
